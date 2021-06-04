@@ -19,6 +19,7 @@ A cheat for [Gunfire Reborn (Steam)](https://store.steampowered.com/app/1217060/
 ## TODO
 - Aimbot overaim
 - A malfunctioning Visible check ( Sometimes it work, sometimes it don't)
+- Release full source after Final Release
 
 ## Feature
 - Aimbot
