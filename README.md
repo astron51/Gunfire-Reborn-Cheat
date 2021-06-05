@@ -1,7 +1,8 @@
 ![HackerMan](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/37691618/3e4d75802375b12f9c90abf9129f3fd3579926a3.gif)
 
 # Gunfire Reborn RedJET
-A cheat for [Gunfire Reborn (Steam)](https://store.steampowered.com/app/1217060/Gunfire_Reborn/) coded in C++
+A cheat for [Gunfire Reborn (Steam)](https://store.steampowered.com/app/1217060/Gunfire_Reborn/) coded in C++.
+Created for education purpose.
 
 ## Credit
  - 鹿岛
