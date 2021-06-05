@@ -17,7 +17,7 @@ A cheat for [Gunfire Reborn (Steam)](https://store.steampowered.com/app/1217060/
 - L-Ctrl for Aimbot (Hold to Aim)
 
 ## TODO
-- Aimbot overaim
+- Aimbot not Accurate enough
 - A malfunctioning Visible check ( Sometimes it work, sometimes it don't)
 - Release full source after Final Release
 
