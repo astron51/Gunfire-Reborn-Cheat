@@ -13,7 +13,7 @@ A cheat for [Gunfire Reborn (Steam)](https://store.steampowered.com/app/1217060/
  
 ## Usage
 - Inject using any Injector, Extreme Injector is recommended.
-- Press Insert for Menu, You have to pause the game and open the menu otherwise you cannot interact with the menu.
+- Press Insert for Menu, You have to pause the game and open the menu otherwise you cannot interact with the menu or the game.
 - L-Ctrl for Aimbot (Hold to Aim)
 
 ## TODO
