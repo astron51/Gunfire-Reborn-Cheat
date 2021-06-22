@@ -18,7 +18,7 @@ Created for education purpose.
 - L-Ctrl for Aimbot (Hold to Aim)
 
 ## TODO
-- ESP for Monsters, boxes, Dungeon entrance and maybe NPC
+- ESP for Monsters
 - Release full source after Final Release
 
 ## Feature
